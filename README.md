@@ -28,7 +28,7 @@ Tras dedicar varios meses a formarme y especializar mis conocimientos, busco la 
 ## :bar_chart: My Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalvoruiz&langs_count=6&theme=midnight_purple&layout=compact&hide_border=true"
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalvoruiz&langs_count=6&theme=midnight-purple&layout=compact&hide_border=true"
           alt="miguelcalvoruiz :: overall Top Langs " />
 <!--  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcalvoruiz&theme=dracula&layout=compact&hide_border=true"
           alt="miguelcalvoruiz :: Top Langs by repo" /> -->

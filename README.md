@@ -25,11 +25,17 @@ Tras dedicar varios meses a formarme y especializar mis conocimientos, busco la 
   
 
 
-### :bar_chart: GitHub stats
+## :bar_chart: My Stats
 
-[![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelcalvoruiz&count_private=true&show_icons=true&theme=dark)](https://github.com/miguelcalvoruiz/github-readme-stats)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalvoruiz&show_icons=true&theme=dark)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcalvoruiz&langs_count=6&theme=dracula&layout=compact&hide_border=true"
+          alt="miguelcalvoruiz :: overall Top Langs " />
+<!--  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelcalvoruiz&theme=dracula&layout=compact&hide_border=true"
+          alt="miguelcalvoruiz :: Top Langs by repo" /> -->
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelcalvoruiz&theme=dracula&layout=compact&hide_border=true"
+          alt="miguelcalvoruiz :: Top Langs by commit" />
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelcalvoruiz&theme=dracula"
+          alt="miguelcalvoruiz :: Stats" />
 
 
 ### 🐍 &nbsp;Commits move ...
